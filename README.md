@@ -16,10 +16,10 @@ It will integrate into your current Laravel project within minutes, and you can 
 
 
 ## Quick installation
-
+Comming sooon................
 
 ## Installation (manual):
-
+Coming soon..............
 ### Requirements
 **First Make sure you have got this Laravel setup working:**
 
@@ -31,7 +31,4 @@ It will integrate into your current Laravel project within minutes, and you can 
 
 
 
-### Installation steps (4-8 minutes)
 
-
-Step 1. Run this code via your terminal (1-2 minutes)
